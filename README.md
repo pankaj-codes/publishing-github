@@ -1,4 +1,4 @@
-<img src="https://github.com/pankaj-codes/publishing-github/assets/31302243/a0357264-4bde-4ed8-8b26-44a36a092742" alt="Stargazers Logo">
+<img src="https://github.com/pankaj-codes/publishing-github/assets/31302243/a0357264-4bde-4ed8-8b26-44a36a092742" alt="Stargazers Logo" style="width:300px>
 
 # Stargazers
 
