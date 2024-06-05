@@ -1,3 +1,5 @@
+[Home](Home.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md) |
+
 <img src="https://github.com/pankaj-codes/publishing-github/assets/31302243/a0357264-4bde-4ed8-8b26-44a36a092742" alt="Stargazers Logo" style="width:300px;" align="center">
 
 # Stargazers
